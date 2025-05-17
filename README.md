@@ -13,5 +13,5 @@ Run the notebook in Jupyter for charts and results.
 ## Students:
 - Faris Ali Alduraibi (421107654)
 - Saleh Saed Alghool (422117042)
-- Suliman Saleh Alduraibi (431108067)
+- Sulaiman Saleh Alduraibi (431108067)
 - Hamad Alsuhaibani (431109462)
